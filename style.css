@@ -1,0 +1,30 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  background-color: #b7b5b7;
+}
+
+.placeholder {
+  
+}
+
+.pastColor {
+background-color: #77664b;
+}
+
+.presentColor {
+  background-color: #ff622e;
+}
+
+.imminentColor {
+background-color: #ff8b16;
+}
+
+.futureColor {
+background-color: #ffe846;
+}
+
+input[type=text] {
+  background-color: #b7b5b7;
+}
